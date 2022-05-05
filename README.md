@@ -2,6 +2,8 @@
 
 I am 35 years old, I am married and a father. I have been working with technology for 14 years and with web development for 11 years. In recent years I've been working mainly with Laravel (PHP) and Angular 2+. I gained extensive experience in these frameworks through working as a developer and team mentor at Followize. At the moment I'm much more focused on the front-end, although I still have contact with the back-end. I love web development and technology and I'm always looking for new knowledge and technologies to make my work better and better.
 
+Need some help or wants to know more about me? Please check my LinkedIn Profile(https://www.linkedin.com/in/joaocamposy/?locale=en_US).
+
 <!--
 **joaocamposy/joaocamposy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
